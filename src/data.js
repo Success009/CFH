@@ -67,7 +67,7 @@ export const content = {
           name: "भ्याकुम प्याकिङ तयारी माछा (फ्रोजन)",
           desc: "पूर्ण रूपमा सफा गरी काटिएको र आधुनिक प्रविधिबाट भ्याकुम प्याकिङ गरी सुरक्षित फ्रिज गरिएको माछा।",
           longDesc: "माछालाई आधुनिक प्रशोधन केन्द्रमा काटेर, धोएर र तुरुन्तै भ्याकुम सिल्ड गरी कम तापक्रममा सुरक्षित राखिन्छ। यसले गर्दा माछाको प्राकृतिक स्वाद र पौष्टिकता महिनौंसम्म सुरक्षित रहन्छ।",
-          img: "/images/product-boneless.png",
+          img: "/images/frozen-fish-box.png",
           benefits: [ "पकाउनका लागि तुरुन्त तयारी (रेडी-टु-कुक)", "हावा र ब्याक्टेरियाको प्रवेश रोक्ने भ्याकुम प्रविधि", "लामो समयसम्म ताजगी र स्वाद कायम रहने" ],
           nutrition: { protein: "१९.० ग्राम", fat: "१.८ ग्राम", omega3: "मध्यम-उच्च", calories: "१०२ kcal" }
         },
@@ -76,7 +76,7 @@ export const content = {
           name: "बोनलेस माछा (काँडा निकालिएको)",
           desc: "बच्चाहरू र वृद्धवृद्धाहरूका लागि अत्यन्त सुरक्षित र उपयोगी। काँडा पूर्ण रूपमा निकालिएको मासु मात्र।",
           longDesc: "हाम्रा कुशल कामदारहरूद्वारा माछाको काँडालाई हातैले र मेसिनको सहायताले पूर्ण रूपमा निकाली तयार गरिएको शुद्ध फिलेट मासु। यो फिलेट फ्राइ, फिस फिङ्गर वा सुपका लागि उत्तम मानिन्छ।",
-          img: "/images/product-momo-raw.png",
+          img: "/images/product-boneless.png",
           benefits: [ "बच्चाहरू र वृद्धवृद्धाहरूका लागि ढुक्कसँग खुवाउन सकिने", "फिस फ्राइ, फिस फिङ्गर वा म:म: बनाउन सजिलो र उत्तम", "शून्य खेर जाने भाग (१००% खाद्य भाग)" ],
           nutrition: { protein: "२०.१ ग्राम", fat: "१.२ ग्राम", omega3: "उच्च", calories: "११० kcal" }
         },
@@ -103,7 +103,7 @@ export const content = {
           name: "माछाको ढाड र टाउको",
           desc: "विशेष गरी सुप र रसदार झोल बनाउन निकै उपयोगी र पोषणयुक्त माछाको भाग।",
           longDesc: "माछाको सबैभन्दा स्वादिलो सुप बनाउन उपयोगी ढाड र टाउकोको भाग। जाडोयाममा वा स्वास्थ्य सुधारका लागि यसको सुप खानु अत्यन्त हितकर मानिन्छ।",
-          img: "/images/frozen-fish-box.png", // processing background photo
+          img: "/images/product-back-head.png", // processing background photo
           benefits: [ "क्याल्सियम र प्रोटिनयुक्त सुपको लागि उत्कृष्ट", "मस्तिष्क र हाडजोर्नीको स्वास्थ्यका लागि निकै पोसिलो", "परम्परागत फिस सुप र अमिलो झोल बनाउन प्रख्यात" ],
           nutrition: { protein: "१६.२ ग्राम", fat: "४.१ ग्राम", omega3: "उच्च (मस्तिष्क स्वास्थ्य)", calories: "९० kcal" }
         },
@@ -112,7 +112,7 @@ export const content = {
           name: "माछाको विशेष म:म:",
           desc: "हाम्रो आफ्नै प्रशोधित बोनलेस माछाको कीमाबाट तयार पारिएको स्वादिष्ट र स्वास्थ्यकर म:म:।",
           longDesc: "नेपालीहरूको प्रिय खाजा म:म:लाई स्वास्थ्यवर्द्धक रूपमा प्रस्तुत गर्न हामीले आफ्नै स्वच्छ र ताजा माछाको बोनलेस कीमाबाट यो म:म: तयार गरेका छौं। यो परम्परागत रातो मासुको म:म:को तुलनामा निकै स्वास्थ्यकर छ।",
-          img: "/images/product-back-head.png",
+          img: "/images/product-momo-raw.png",
           benefits: [ "हानिकारक रातो मासुको तुलनामा अत्यन्त स्वास्थ्यकर र सजिलै पच्ने", "चितवन फिस हाउसको विशेष र मौलिक स्वाद", "ताजा र रसायनमुक्त घरेलु कीमाबाट मात्र तयार पारिने" ],
           nutrition: { protein: "१५.५ ग्राम", fat: "२.५ ग्राम", omega3: "मध्यम", calories: "१६० kcal" }
         }
@@ -276,7 +276,7 @@ export const content = {
           name: "Vacuum-Packed Ready Fish (Frozen)",
           desc: "Hygienically scaled, gutted, sliced, vacuum-packed, and flash-frozen at low temperatures.",
           longDesc: "Processed immediately after harvest, these ready-to-cook portions are sealed using advanced vacuum chambers to block air and bacteria, locking in taste for months.",
-          img: "/images/product-boneless.png",
+          img: "/images/frozen-fish-box.png",
           benefits: [ "Convenient and ready-to-cook", "Vacuum seal locks out frostbite, air, and bacterial growth", "Preserves organic taste and nutrients long-term" ],
           nutrition: { protein: "19.0 g", fat: "1.8 g", omega3: "Medium-High", calories: "102 kcal" }
         },
@@ -285,7 +285,7 @@ export const content = {
           name: "Premium Boneless Fillets",
           desc: "Completely de-boned high-quality fish meat. Safest option for children and senior citizens.",
           longDesc: "Carefully trimmed and de-boned by hand at our processing center, this premium cut is completely free of dangerous pin-bones. Perfect for deep frying or healthy fish soups.",
-          img: "/images/product-momo-raw.png",
+          img: "/images/product-boneless.png",
           benefits: [ "Extremely safe for young children and elderly family members", "Highly versatile: perfect for fish fingers, pan-searing, or home-made momos", "Zero-waste: you pay only for 100% edible premium meat" ],
           nutrition: { protein: "20.1 g", fat: "1.2 g", omega3: "High", calories: "110 kcal" }
         },
@@ -312,7 +312,7 @@ export const content = {
           name: "Nutritious Fish Back & Head",
           desc: "Excellent source of collagen and marrow, highly popular for preparing rich, traditional broths.",
           longDesc: "The prime base for creating savory and highly nourishing fish stock. Highly recommended during winter or for health recovery due to its rich mineral and calcium content.",
-          img: "/images/frozen-fish-box.png",
+          img: "/images/product-back-head.png",
           benefits: [ "Optimized for rich, collagen-packed, and healthy bone soups", "Supports joint health, brain development, and bone recovery", "The secret ingredient for authentic spicy sour fish stews" ],
           nutrition: { protein: "16.2 g", fat: "4.1 g", omega3: "High (EPA/DHA)", calories: "90 kcal" }
         },
@@ -321,7 +321,7 @@ export const content = {
           name: "Specialty Fish MoMo",
           desc: "A healthy, light, and delicious take on Nepal's national snack, crafted from our boneless fish mince.",
           longDesc: "Reimagining Nepal's beloved MoMo. We substitute heavy, high-cholesterol red meats with our ultra-clean, minced boneless fish meat, spiced with local herbs. A true culinary innovation.",
-          img: "/images/product-back-head.png",
+          img: "/images/product-momo-raw.png",
           benefits: [ "Significantly healthier and faster to digest than red meat dumplings", "Signature innovative flavor exclusively crafted by Chitwan Fish House", "Made using 100% fresh, chemical-free home-processed fish mince" ],
           nutrition: { protein: "15.5 g", fat: "2.5 g", omega3: "Medium", calories: "160 kcal" }
         }
