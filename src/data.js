@@ -58,7 +58,7 @@ export const content = {
           name: "जिउँदो कार्प तथा पङ्गास जातका माछा",
           desc: "हाम्रो ट्याङ्कीबाट सिधै जिउँदो र चलिरहेको अवस्थामा उपलब्ध। रहु, नैनी, भाकुर, र पङ्गासियस माछाहरू।",
           longDesc: "हाम्रो अत्याधुनिक वाटर-सर्कुलेटेड ट्याङ्कीहरूबाट ग्राहकहरूले आफैं रोजेर जीवित माछा लिन सक्नुहुन्छ। यसले शतप्रतिशत ताजगी र कुनै पनि मिसावट नभएको ग्यारेन्टी गर्दछ।",
-          img: "/images/product-live-fish.png",
+          img: "/images/frozen-fish-box.png",
           benefits: [ "पूर्ण रूपमा ताजा र जीवित माछा", "ग्राहकको रोजाइ अनुसार तुरुन्त काटिने र सफा गरिने", "कुनै पनि रसायन वा चिसो भण्डारणको आवश्यकता नपर्ने" ],
           nutrition: { protein: "१८.५ ग्राम", fat: "२.२ ग्राम", omega3: "उच्च", calories: "९६ kcal" }
         },
@@ -67,7 +67,7 @@ export const content = {
           name: "भ्याकुम प्याकिङ तयारी माछा (फ्रोजन)",
           desc: "पूर्ण रूपमा सफा गरी काटिएको र आधुनिक प्रविधिबाट भ्याकुम प्याकिङ गरी सुरक्षित फ्रिज गरिएको माछा।",
           longDesc: "माछालाई आधुनिक प्रशोधन केन्द्रमा काटेर, धोएर र तुरुन्तै भ्याकुम सिल्ड गरी कम तापक्रममा सुरक्षित राखिन्छ। यसले गर्दा माछाको प्राकृतिक स्वाद र पौष्टिकता महिनौंसम्म सुरक्षित रहन्छ।",
-          img: "/images/frozen-fish-box.png",
+          img: "/images/product-live-fish.png",
           benefits: [ "पकाउनका लागि तुरुन्त तयारी (रेडी-टु-कुक)", "हावा र ब्याक्टेरियाको प्रवेश रोक्ने भ्याकुम प्रविधि", "लामो समयसम्म ताजगी र स्वाद कायम रहने" ],
           nutrition: { protein: "१९.० ग्राम", fat: "१.८ ग्राम", omega3: "मध्यम-उच्च", calories: "१०२ kcal" }
         },
@@ -76,7 +76,7 @@ export const content = {
           name: "बोनलेस माछा (काँडा निकालिएको)",
           desc: "बच्चाहरू र वृद्धवृद्धाहरूका लागि अत्यन्त सुरक्षित र उपयोगी। काँडा पूर्ण रूपमा निकालिएको मासु मात्र।",
           longDesc: "हाम्रा कुशल कामदारहरूद्वारा माछाको काँडालाई हातैले र मेसिनको सहायताले पूर्ण रूपमा निकाली तयार गरिएको शुद्ध फिलेट मासु। यो फिलेट फ्राइ, फिस फिङ्गर वा सुपका लागि उत्तम मानिन्छ।",
-          img: "/images/product-boneless.png",
+          img: "/images/product-chhadi.png",
           benefits: [ "बच्चाहरू र वृद्धवृद्धाहरूका लागि ढुक्कसँग खुवाउन सकिने", "फिस फ्राइ, फिस फिङ्गर वा म:म: बनाउन सजिलो र उत्तम", "शून्य खेर जाने भाग (१००% खाद्य भाग)" ],
           nutrition: { protein: "२०.१ ग्राम", fat: "१.२ ग्राम", omega3: "उच्च", calories: "११० kcal" }
         },
@@ -85,7 +85,7 @@ export const content = {
           name: "भ्याकुम प्याकिङ गरिएको छडी माछा",
           desc: "साना र कलिला स्वादिला छडी माछाहरू, सफा गरी भ्याकुम प्याकिङ गरिएका।",
           longDesc: "परम्परागत स्वाद बोकेका कलिला छडी माछाहरूलाई सफा गरी प्याकिङ गरिएको छ। यी माछाहरू विशेष गरी डिप-फ्राइ वा अचार बनाउन निकै स्वादिष्ट हुन्छन्।",
-          img: "/images/product-chhadi.png",
+          img: "/images/product-sukuti.png",
           benefits: [ "कुरकुरी फ्राइको लागि सबैभन्दा प्रख्यात", "हड्डी सहित खान मिल्ने हुनाले क्याल्सियमको ठूलो स्रोत", "सफा गर्न झन्झट नपर्ने, सिधै पकाउन मिल्ने" ],
           nutrition: { protein: "१७.८ ग्राम", fat: "३.० ग्राम", omega3: "अत्यधिक उच्च", calories: "११५ kcal" }
         },
@@ -94,7 +94,7 @@ export const content = {
           name: "माछाको सुकुटी",
           desc: "परम्परागत र अर्गानिक तरिकाले सुख्खा गरिएको स्वादिष्ट र पोसिलो माछाको सुकुटी।",
           longDesc: "चितवन फिस हाउसको विशेष उत्पादन, जसलाई सफा गरी, हल्का मसला लगाई स्वच्छ र हावा बग्ने नियन्त्रित वातावरणमा परम्परागत ढंगले सुकाइएको छ। यो लामो समयसम्म भण्डारण गर्न सकिन्छ।",
-          img: "/images/product-sukuti.png", // reusing dry fish / fish profile photo
+          img: "/images/product-boneless.png", // reusing dry fish / fish profile photo
           benefits: [ "अर्गानिक र परम्परागत नेपाली स्वाद", "हावा नछिर्ने प्याकेटमा लामो समयसम्म सुरक्षित रहने", "विशेष अचार वा ग्रेभी बनाएर खान अत्यन्तै स्वादिष्ट" ],
           nutrition: { protein: "४५.५ ग्राम", fat: "५.२ ग्राम", omega3: "अत्यधिक केन्द्रित", calories: "२८० kcal" }
         },
@@ -267,7 +267,7 @@ export const content = {
           name: "Live Carp & Pangasius Species",
           desc: "Sourced directly from our state-of-the-art live holding tanks. Standard species include Rahu, Naini, Bhakur, and Pangash.",
           longDesc: "Customers can handpick live fish directly swimming in our clean, water-circulated tanks. This guarantees absolute freshness and zero chemical preservation.",
-          img: "/images/product-live-fish.png",
+          img: "/images/frozen-fish-box.png",
           benefits: [ "100% fresh and actively swimming", "Immediately harvested, scaled, and custom-cut in front of you", "No cold storage or preservatives needed" ],
           nutrition: { protein: "18.5 g", fat: "2.2 g", omega3: "Very High", calories: "96 kcal" }
         },
@@ -294,7 +294,7 @@ export const content = {
           name: "Vacuum-Packed Chhadi Fish",
           desc: "Premium, small fingerling fishes, thoroughly washed and vacuum-sealed for maximum crispiness.",
           longDesc: "Highly valued in traditional Nepalese cuisine, these whole small fish are packed with calcium. Excellent for crisp pan-frying or making traditional spicy fish pickles (achar).",
-          img: "/images/product-chhadi.png",
+          img: "/images/product-sukuti.png",
           benefits: [ "Highly popular for crisp fish fries", "Eaten whole (with soft bones), providing an excellent source of natural calcium", "Thoroughly washed and prepped, saving kitchen cleaning time" ],
           nutrition: { protein: "17.8 g", fat: "3.0 g", omega3: "Exceptionally High", calories: "115 kcal" }
         },
@@ -303,7 +303,7 @@ export const content = {
           name: "Traditional Fish Sukuti (Dehydrated)",
           desc: "Cleaned, seasoned, and dehydrated under controlled, hygienic conditions for gourmet storage.",
           longDesc: "A unique specialty of Chitwan Fish House. Fresh local fish is seasoned with light local spices and dehydrated in a highly clean, well-ventilated enclosure to preserve rich Nepalese flavors.",
-          img: "/images/product-sukuti.png",
+          img: "/images/product-boneless.png",
           benefits: [ "Authentic and intense traditional taste profile", "Airtight packaging ensures prolonged shelf-life without chemical additives", "Excellent when pan-fried, dry-roasted, or cooked in rich spicy broths" ],
           nutrition: { protein: "45.5 g", fat: "5.2 g", omega3: "Extremely Concentrated", calories: "280 kcal" }
         },
