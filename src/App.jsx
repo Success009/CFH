@@ -137,7 +137,7 @@ export default function App() {
             {/* Brand Logo & Name */}
             <a href="#home" className="flex items-center gap-3 group">
               <img 
-                src="/images/img-000.png" 
+                src="/images/logo.png" 
                 alt="Chitwan Fish House Logo" 
                 className="w-12 h-12 object-contain rounded-full shadow-md border border-slate-200 p-0.5 group-hover:scale-105 transition-transform duration-300" 
               />
@@ -388,7 +388,7 @@ export default function App() {
                   {/* Hero banner card image */}
                   <div className="relative rounded-2xl overflow-hidden border-4 border-white/10 shadow-2xl">
                     <img 
-                      src="/images/img-001.png" 
+                      src="/images/shop-front.png" 
                       alt="Chitwan Fish House Main banner" 
                       className="w-full h-72 sm:h-96 object-cover hover:scale-105 transition-transform duration-700"
                     />
@@ -455,7 +455,7 @@ export default function App() {
                 {/* Image of store setup */}
                 <div className="relative rounded-2xl overflow-hidden border border-slate-100 shadow-xl group">
                   <img 
-                    src="/images/img-002.png" 
+                    src="/images/founder-nunulal.png" 
                     alt="Chitwan Fish House Shop operations" 
                     className="w-full h-64 object-cover group-hover:scale-102 transition-transform duration-500" 
                   />
@@ -862,7 +862,7 @@ export default function App() {
               <div className="lg:col-span-5 relative">
                 <div className="relative rounded-2xl overflow-hidden border border-slate-200 shadow-2xl bg-white">
                   <img 
-                    src="/images/img-004.png" 
+                    src="/images/frozen-fish-box.png" 
                     alt="CFH advanced fish processing unit" 
                     className="w-full h-80 object-cover" 
                   />
@@ -1141,7 +1141,7 @@ export default function App() {
           {/* Col 1 Brand logo & summary */}
           <div className="md:col-span-5 space-y-4 text-center md:text-left">
             <div className="flex items-center justify-center md:justify-start gap-3">
-              <img src="/images/img-000.png" alt="Chitwan Fish House Logo" className="w-10 h-10 object-contain rounded-full border border-slate-700 bg-white p-0.5" />
+              <img src="/images/logo.png" alt="Chitwan Fish House Logo" className="w-10 h-10 object-contain rounded-full border border-slate-700 bg-white p-0.5" />
               <span className="text-lg font-bold text-white tracking-wide">चितवन फिस हाउस</span>
             </div>
             <p className="text-slate-400 text-xs sm:text-sm leading-relaxed max-w-sm mx-auto md:mx-0 font-light">

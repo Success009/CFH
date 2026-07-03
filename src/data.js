@@ -58,7 +58,7 @@ export const content = {
           name: "जिउँदो कार्प तथा पङ्गास जातका माछा",
           desc: "हाम्रो ट्याङ्कीबाट सिधै जिउँदो र चलिरहेको अवस्थामा उपलब्ध। रहु, नैनी, भाकुर, र पङ्गासियस माछाहरू।",
           longDesc: "हाम्रो अत्याधुनिक वाटर-सर्कुलेटेड ट्याङ्कीहरूबाट ग्राहकहरूले आफैं रोजेर जीवित माछा लिन सक्नुहुन्छ। यसले शतप्रतिशत ताजगी र कुनै पनि मिसावट नभएको ग्यारेन्टी गर्दछ।",
-          img: "/images/img-003.png",
+          img: "/images/product-live-fish.png",
           benefits: [ "पूर्ण रूपमा ताजा र जीवित माछा", "ग्राहकको रोजाइ अनुसार तुरुन्त काटिने र सफा गरिने", "कुनै पनि रसायन वा चिसो भण्डारणको आवश्यकता नपर्ने" ],
           nutrition: { protein: "१८.५ ग्राम", fat: "२.२ ग्राम", omega3: "उच्च", calories: "९६ kcal" }
         },
@@ -67,7 +67,7 @@ export const content = {
           name: "भ्याकुम प्याकिङ तयारी माछा (फ्रोजन)",
           desc: "पूर्ण रूपमा सफा गरी काटिएको र आधुनिक प्रविधिबाट भ्याकुम प्याकिङ गरी सुरक्षित फ्रिज गरिएको माछा।",
           longDesc: "माछालाई आधुनिक प्रशोधन केन्द्रमा काटेर, धोएर र तुरुन्तै भ्याकुम सिल्ड गरी कम तापक्रममा सुरक्षित राखिन्छ। यसले गर्दा माछाको प्राकृतिक स्वाद र पौष्टिकता महिनौंसम्म सुरक्षित रहन्छ।",
-          img: "/images/img-005.png",
+          img: "/images/product-boneless.png",
           benefits: [ "पकाउनका लागि तुरुन्त तयारी (रेडी-टु-कुक)", "हावा र ब्याक्टेरियाको प्रवेश रोक्ने भ्याकुम प्रविधि", "लामो समयसम्म ताजगी र स्वाद कायम रहने" ],
           nutrition: { protein: "१९.० ग्राम", fat: "१.८ ग्राम", omega3: "मध्यम-उच्च", calories: "१०२ kcal" }
         },
@@ -76,7 +76,7 @@ export const content = {
           name: "बोनलेस माछा (काँडा निकालिएको)",
           desc: "बच्चाहरू र वृद्धवृद्धाहरूका लागि अत्यन्त सुरक्षित र उपयोगी। काँडा पूर्ण रूपमा निकालिएको मासु मात्र।",
           longDesc: "हाम्रा कुशल कामदारहरूद्वारा माछाको काँडालाई हातैले र मेसिनको सहायताले पूर्ण रूपमा निकाली तयार गरिएको शुद्ध फिलेट मासु। यो फिलेट फ्राइ, फिस फिङ्गर वा सुपका लागि उत्तम मानिन्छ।",
-          img: "/images/img-008.png",
+          img: "/images/product-momo-raw.png",
           benefits: [ "बच्चाहरू र वृद्धवृद्धाहरूका लागि ढुक्कसँग खुवाउन सकिने", "फिस फ्राइ, फिस फिङ्गर वा म:म: बनाउन सजिलो र उत्तम", "शून्य खेर जाने भाग (१००% खाद्य भाग)" ],
           nutrition: { protein: "२०.१ ग्राम", fat: "१.२ ग्राम", omega3: "उच्च", calories: "११० kcal" }
         },
@@ -85,7 +85,7 @@ export const content = {
           name: "भ्याकुम प्याकिङ गरिएको छडी माछा",
           desc: "साना र कलिला स्वादिला छडी माछाहरू, सफा गरी भ्याकुम प्याकिङ गरिएका।",
           longDesc: "परम्परागत स्वाद बोकेका कलिला छडी माछाहरूलाई सफा गरी प्याकिङ गरिएको छ। यी माछाहरू विशेष गरी डिप-फ्राइ वा अचार बनाउन निकै स्वादिष्ट हुन्छन्।",
-          img: "/images/img-006.png",
+          img: "/images/product-chhadi.png",
           benefits: [ "कुरकुरी फ्राइको लागि सबैभन्दा प्रख्यात", "हड्डी सहित खान मिल्ने हुनाले क्याल्सियमको ठूलो स्रोत", "सफा गर्न झन्झट नपर्ने, सिधै पकाउन मिल्ने" ],
           nutrition: { protein: "१७.८ ग्राम", fat: "३.० ग्राम", omega3: "अत्यधिक उच्च", calories: "११५ kcal" }
         },
@@ -94,7 +94,7 @@ export const content = {
           name: "माछाको सुकुटी",
           desc: "परम्परागत र अर्गानिक तरिकाले सुख्खा गरिएको स्वादिष्ट र पोसिलो माछाको सुकुटी।",
           longDesc: "चितवन फिस हाउसको विशेष उत्पादन, जसलाई सफा गरी, हल्का मसला लगाई स्वच्छ र हावा बग्ने नियन्त्रित वातावरणमा परम्परागत ढंगले सुकाइएको छ। यो लामो समयसम्म भण्डारण गर्न सकिन्छ।",
-          img: "/images/img-006.png", // reusing dry fish / fish profile photo
+          img: "/images/product-sukuti.png", // reusing dry fish / fish profile photo
           benefits: [ "अर्गानिक र परम्परागत नेपाली स्वाद", "हावा नछिर्ने प्याकेटमा लामो समयसम्म सुरक्षित रहने", "विशेष अचार वा ग्रेभी बनाएर खान अत्यन्तै स्वादिष्ट" ],
           nutrition: { protein: "४५.५ ग्राम", fat: "५.२ ग्राम", omega3: "अत्यधिक केन्द्रित", calories: "२८० kcal" }
         },
@@ -103,7 +103,7 @@ export const content = {
           name: "माछाको ढाड र टाउको",
           desc: "विशेष गरी सुप र रसदार झोल बनाउन निकै उपयोगी र पोषणयुक्त माछाको भाग।",
           longDesc: "माछाको सबैभन्दा स्वादिलो सुप बनाउन उपयोगी ढाड र टाउकोको भाग। जाडोयाममा वा स्वास्थ्य सुधारका लागि यसको सुप खानु अत्यन्त हितकर मानिन्छ।",
-          img: "/images/img-004.png", // processing background photo
+          img: "/images/frozen-fish-box.png", // processing background photo
           benefits: [ "क्याल्सियम र प्रोटिनयुक्त सुपको लागि उत्कृष्ट", "मस्तिष्क र हाडजोर्नीको स्वास्थ्यका लागि निकै पोसिलो", "परम्परागत फिस सुप र अमिलो झोल बनाउन प्रख्यात" ],
           nutrition: { protein: "१६.२ ग्राम", fat: "४.१ ग्राम", omega3: "उच्च (मस्तिष्क स्वास्थ्य)", calories: "९० kcal" }
         },
@@ -112,7 +112,7 @@ export const content = {
           name: "माछाको विशेष म:म:",
           desc: "हाम्रो आफ्नै प्रशोधित बोनलेस माछाको कीमाबाट तयार पारिएको स्वादिष्ट र स्वास्थ्यकर म:म:।",
           longDesc: "नेपालीहरूको प्रिय खाजा म:म:लाई स्वास्थ्यवर्द्धक रूपमा प्रस्तुत गर्न हामीले आफ्नै स्वच्छ र ताजा माछाको बोनलेस कीमाबाट यो म:म: तयार गरेका छौं। यो परम्परागत रातो मासुको म:म:को तुलनामा निकै स्वास्थ्यकर छ।",
-          img: "/images/img-007.png",
+          img: "/images/product-back-head.png",
           benefits: [ "हानिकारक रातो मासुको तुलनामा अत्यन्त स्वास्थ्यकर र सजिलै पच्ने", "चितवन फिस हाउसको विशेष र मौलिक स्वाद", "ताजा र रसायनमुक्त घरेलु कीमाबाट मात्र तयार पारिने" ],
           nutrition: { protein: "१५.५ ग्राम", fat: "२.५ ग्राम", omega3: "मध्यम", calories: "१६० kcal" }
         }
@@ -267,7 +267,7 @@ export const content = {
           name: "Live Carp & Pangasius Species",
           desc: "Sourced directly from our state-of-the-art live holding tanks. Standard species include Rahu, Naini, Bhakur, and Pangash.",
           longDesc: "Customers can handpick live fish directly swimming in our clean, water-circulated tanks. This guarantees absolute freshness and zero chemical preservation.",
-          img: "/images/img-003.png",
+          img: "/images/product-live-fish.png",
           benefits: [ "100% fresh and actively swimming", "Immediately harvested, scaled, and custom-cut in front of you", "No cold storage or preservatives needed" ],
           nutrition: { protein: "18.5 g", fat: "2.2 g", omega3: "Very High", calories: "96 kcal" }
         },
@@ -276,7 +276,7 @@ export const content = {
           name: "Vacuum-Packed Ready Fish (Frozen)",
           desc: "Hygienically scaled, gutted, sliced, vacuum-packed, and flash-frozen at low temperatures.",
           longDesc: "Processed immediately after harvest, these ready-to-cook portions are sealed using advanced vacuum chambers to block air and bacteria, locking in taste for months.",
-          img: "/images/img-005.png",
+          img: "/images/product-boneless.png",
           benefits: [ "Convenient and ready-to-cook", "Vacuum seal locks out frostbite, air, and bacterial growth", "Preserves organic taste and nutrients long-term" ],
           nutrition: { protein: "19.0 g", fat: "1.8 g", omega3: "Medium-High", calories: "102 kcal" }
         },
@@ -285,7 +285,7 @@ export const content = {
           name: "Premium Boneless Fillets",
           desc: "Completely de-boned high-quality fish meat. Safest option for children and senior citizens.",
           longDesc: "Carefully trimmed and de-boned by hand at our processing center, this premium cut is completely free of dangerous pin-bones. Perfect for deep frying or healthy fish soups.",
-          img: "/images/img-008.png",
+          img: "/images/product-momo-raw.png",
           benefits: [ "Extremely safe for young children and elderly family members", "Highly versatile: perfect for fish fingers, pan-searing, or home-made momos", "Zero-waste: you pay only for 100% edible premium meat" ],
           nutrition: { protein: "20.1 g", fat: "1.2 g", omega3: "High", calories: "110 kcal" }
         },
@@ -294,7 +294,7 @@ export const content = {
           name: "Vacuum-Packed Chhadi Fish",
           desc: "Premium, small fingerling fishes, thoroughly washed and vacuum-sealed for maximum crispiness.",
           longDesc: "Highly valued in traditional Nepalese cuisine, these whole small fish are packed with calcium. Excellent for crisp pan-frying or making traditional spicy fish pickles (achar).",
-          img: "/images/img-006.png",
+          img: "/images/product-chhadi.png",
           benefits: [ "Highly popular for crisp fish fries", "Eaten whole (with soft bones), providing an excellent source of natural calcium", "Thoroughly washed and prepped, saving kitchen cleaning time" ],
           nutrition: { protein: "17.8 g", fat: "3.0 g", omega3: "Exceptionally High", calories: "115 kcal" }
         },
@@ -303,7 +303,7 @@ export const content = {
           name: "Traditional Fish Sukuti (Dehydrated)",
           desc: "Cleaned, seasoned, and dehydrated under controlled, hygienic conditions for gourmet storage.",
           longDesc: "A unique specialty of Chitwan Fish House. Fresh local fish is seasoned with light local spices and dehydrated in a highly clean, well-ventilated enclosure to preserve rich Nepalese flavors.",
-          img: "/images/img-006.png",
+          img: "/images/product-sukuti.png",
           benefits: [ "Authentic and intense traditional taste profile", "Airtight packaging ensures prolonged shelf-life without chemical additives", "Excellent when pan-fried, dry-roasted, or cooked in rich spicy broths" ],
           nutrition: { protein: "45.5 g", fat: "5.2 g", omega3: "Extremely Concentrated", calories: "280 kcal" }
         },
@@ -312,7 +312,7 @@ export const content = {
           name: "Nutritious Fish Back & Head",
           desc: "Excellent source of collagen and marrow, highly popular for preparing rich, traditional broths.",
           longDesc: "The prime base for creating savory and highly nourishing fish stock. Highly recommended during winter or for health recovery due to its rich mineral and calcium content.",
-          img: "/images/img-004.png",
+          img: "/images/frozen-fish-box.png",
           benefits: [ "Optimized for rich, collagen-packed, and healthy bone soups", "Supports joint health, brain development, and bone recovery", "The secret ingredient for authentic spicy sour fish stews" ],
           nutrition: { protein: "16.2 g", fat: "4.1 g", omega3: "High (EPA/DHA)", calories: "90 kcal" }
         },
@@ -321,7 +321,7 @@ export const content = {
           name: "Specialty Fish MoMo",
           desc: "A healthy, light, and delicious take on Nepal's national snack, crafted from our boneless fish mince.",
           longDesc: "Reimagining Nepal's beloved MoMo. We substitute heavy, high-cholesterol red meats with our ultra-clean, minced boneless fish meat, spiced with local herbs. A true culinary innovation.",
-          img: "/images/img-007.png",
+          img: "/images/product-back-head.png",
           benefits: [ "Significantly healthier and faster to digest than red meat dumplings", "Signature innovative flavor exclusively crafted by Chitwan Fish House", "Made using 100% fresh, chemical-free home-processed fish mince" ],
           nutrition: { protein: "15.5 g", fat: "2.5 g", omega3: "Medium", calories: "160 kcal" }
         }
@@ -424,16 +424,16 @@ export const content = {
 
 // Image gallery list mapping pdf images to sections
 export const galleryImages = [
-  { id: 1, type: "outlet", src: "/images/img-001.png", alt: "Chitwan Fish House Store Front" },
-  { id: 2, type: "outlet", src: "/images/img-002.png", alt: "Active Customer Service & Fresh Display" },
-  { id: 3, type: "outlet", src: "/images/img-003.png", alt: "Clean Water Recirculated Holding Tanks" },
-  { id: 4, type: "outlet", src: "/images/img-004.png", alt: "Hygienic Fish Processing Unit" },
-  { id: 5, type: "cert", src: "/images/img-009.png", title: "Cottage & Small Industries License - Page 1" },
-  { id: 6, type: "cert", src: "/images/img-010.png", title: "Cottage & Small Industries License - Page 2" },
-  { id: 7, type: "cert", src: "/images/img-011.png", title: "Bharatpur Metropolitan Registration Certificate" },
-  { id: 8, type: "cert", src: "/images/img-012.png", title: "Official VAT/PAN Registration Certificate" },
-  { id: 9, type: "cert", src: "/images/img-013.png", title: "Quality Compliance Audit Record" },
-  { id: 10, type: "cert", src: "/images/img-014.png", title: "Local Agriculture Directorate Commendation" },
-  { id: 11, type: "cert", src: "/images/img-015.png", title: "Municipal Health & Hygiene Clearance Certificate" },
-  { id: 12, type: "cert", src: "/images/img-016.png", title: "Fisheries Association Membership Registry" }
+  { id: 1, type: "outlet", src: "/images/shop-front.png", alt: "Chitwan Fish House Store Front" },
+  { id: 2, type: "outlet", src: "/images/founder-nunulal.png", alt: "Active Customer Service & Fresh Display" },
+  { id: 3, type: "outlet", src: "/images/product-live-fish.png", alt: "Clean Water Recirculated Holding Tanks" },
+  { id: 4, type: "outlet", src: "/images/frozen-fish-box.png", alt: "Hygienic Fish Processing Unit" },
+  { id: 5, type: "cert", src: "/images/team-usda.png", title: "Cottage & Small Industries License - Page 1" },
+  { id: 6, type: "cert", src: "/images/exhibition-booth.png", title: "Cottage & Small Industries License - Page 2" },
+  { id: 7, type: "cert", src: "/images/board-meeting.png", title: "Bharatpur Metropolitan Registration Certificate" },
+  { id: 8, type: "cert", src: "/images/team-outside-6.png", title: "Official VAT/PAN Registration Certificate" },
+  { id: 9, type: "cert", src: "/images/processing-machine.png", title: "Quality Compliance Audit Record" },
+  { id: 10, type: "cert", src: "/images/team-outside-5.png", title: "Local Agriculture Directorate Commendation" },
+  { id: 11, type: "cert", src: "/images/discussion-store.png", title: "Municipal Health & Hygiene Clearance Certificate" },
+  { id: 12, type: "cert", src: "/images/team-association.png", title: "Fisheries Association Membership Registry" }
 ];
