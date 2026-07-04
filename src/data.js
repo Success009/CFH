@@ -85,7 +85,7 @@ export const content = {
           name: "भ्याकुम प्याकिङ गरिएको छडी माछा",
           desc: "साना र कलिला स्वादिला छडी माछाहरू, सफा गरी भ्याकुम प्याकिङ गरिएका।",
           longDesc: "परम्परागत स्वाद बोकेका कलिला छडी माछाहरूलाई सफा गरी प्याकिङ गरिएको छ। यी माछाहरू विशेष गरी डिप-फ्राइ वा अचार बनाउन निकै स्वादिष्ट हुन्छन्।",
-          img: "/images/product-boneless.png",
+          img: "/images/product-chhadi.png",
           benefits: [ "कुरकुरी फ्राइको लागि सबैभन्दा प्रख्यात", "हड्डी सहित खान मिल्ने हुनाले क्याल्सियमको ठूलो स्रोत", "सफा गर्न झन्झट नपर्ने, सिधै पकाउन मिल्ने" ],
           nutrition: { protein: "१७.८ ग्राम", fat: "३.० ग्राम", omega3: "अत्यधिक उच्च", calories: "११५ kcal" }
         },
@@ -94,7 +94,7 @@ export const content = {
           name: "माछाको सुकुटी",
           desc: "परम्परागत र अर्गानिक तरिकाले सुख्खा गरिएको स्वादिष्ट र पोसिलो माछाको सुकुटी।",
           longDesc: "चितवन फिस हाउसको विशेष उत्पादन, जसलाई सफा गरी, हल्का मसला लगाई स्वच्छ र हावा बग्ने नियन्त्रित वातावरणमा परम्परागत ढंगले सुकाइएको छ। यो लामो समयसम्म भण्डारण गर्न सकिन्छ।",
-          img: "/images/product-chhadi.png", // reusing dry fish / fish profile photo
+          img: "/images/product-boneless.png", // reusing dry fish / fish profile photo
           benefits: [ "अर्गानिक र परम्परागत नेपाली स्वाद", "हावा नछिर्ने प्याकेटमा लामो समयसम्म सुरक्षित रहने", "विशेष अचार वा ग्रेभी बनाएर खान अत्यन्तै स्वादिष्ट" ],
           nutrition: { protein: "४५.५ ग्राम", fat: "५.२ ग्राम", omega3: "अत्यधिक केन्द्रित", calories: "२८० kcal" }
         },
@@ -294,7 +294,7 @@ export const content = {
           name: "Vacuum-Packed Chhadi Fish",
           desc: "Premium, small fingerling fishes, thoroughly washed and vacuum-sealed for maximum crispiness.",
           longDesc: "Highly valued in traditional Nepalese cuisine, these whole small fish are packed with calcium. Excellent for crisp pan-frying or making traditional spicy fish pickles (achar).",
-          img: "/images/product-boneless.png",
+          img: "/images/product-chhadi.png",
           benefits: [ "Highly popular for crisp fish fries", "Eaten whole (with soft bones), providing an excellent source of natural calcium", "Thoroughly washed and prepped, saving kitchen cleaning time" ],
           nutrition: { protein: "17.8 g", fat: "3.0 g", omega3: "Exceptionally High", calories: "115 kcal" }
         },
@@ -303,7 +303,7 @@ export const content = {
           name: "Traditional Fish Sukuti (Dehydrated)",
           desc: "Cleaned, seasoned, and dehydrated under controlled, hygienic conditions for gourmet storage.",
           longDesc: "A unique specialty of Chitwan Fish House. Fresh local fish is seasoned with light local spices and dehydrated in a highly clean, well-ventilated enclosure to preserve rich Nepalese flavors.",
-          img: "/images/product-chhadi.png",
+          img: "/images/product-boneless.png",
           benefits: [ "Authentic and intense traditional taste profile", "Airtight packaging ensures prolonged shelf-life without chemical additives", "Excellent when pan-fried, dry-roasted, or cooked in rich spicy broths" ],
           nutrition: { protein: "45.5 g", fat: "5.2 g", omega3: "Extremely Concentrated", calories: "280 kcal" }
         },
