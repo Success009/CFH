@@ -250,15 +250,16 @@ export default function App() {
       {/* SHOPPING LIST SLIDE PANEL */}
       {cartOpen && (
         <div className="fixed inset-0 z-50 overflow-hidden">
-          <div className="absolute inset-0 bg-slate-900/50 backdrop-blur-xs transition-opacity" onClick={toggleCart} />
+          {/* Backdrop with cursor-pointer for mobile Safari tap handling */}
+          <div className="absolute inset-0 bg-slate-900/50 backdrop-blur-xs transition-opacity cursor-pointer" onClick={toggleCart} />
           
-          <div className="fixed inset-y-0 right-0 max-w-full flex pl-10">
-            <div className="w-screen max-w-md bg-white shadow-2xl flex flex-col">
+          <div className="fixed inset-y-0 right-0 max-w-full flex pl-4 sm:pl-10">
+            <div className="w-full sm:w-screen max-w-md bg-white shadow-2xl flex flex-col">
               <div className="p-6 border-b border-slate-100 flex justify-between items-center bg-gradient-to-r from-sky-850 to-sky-900 text-white">
                 <h3 className="text-lg font-bold flex items-center gap-2">
                   <ShoppingCart size={20} /> {t.cart.title}
                 </h3>
-                <button onClick={toggleCart} className="p-1 rounded-full hover:bg-white/10 text-white transition-all">
+                <button onClick={toggleCart} className="p-2 -mr-2 rounded-full hover:bg-white/10 text-white transition-all focus:outline-none" aria-label="Close cart">
                   <X size={20} />
                 </button>
               </div>
@@ -584,12 +585,11 @@ export default function App() {
           <div className="fixed inset-0 z-50 overflow-y-auto">
             <div className="flex items-center justify-center min-h-screen px-4 pt-4 pb-20 text-center sm:block sm:p-0">
               
-              {/* Blur backdrop */}
+              {/* Blur backdrop with cursor-pointer for touch/Safari support */}
               <div 
-                className="fixed inset-0 bg-slate-900/60 backdrop-blur-xs transition-opacity" 
+                className="fixed inset-0 bg-slate-900/60 backdrop-blur-xs transition-opacity cursor-pointer" 
                 onClick={() => setSelectedProduct(null)} 
               />
-
               {/* Centered card alignment trick */}
               <span className="hidden sm:inline-block sm:align-middle sm:h-screen" aria-hidden="true">​</span>
 
@@ -952,7 +952,7 @@ export default function App() {
         {selectedImage && (
           <div className="fixed inset-0 z-55 overflow-hidden flex items-center justify-center p-4">
             <div 
-              className="absolute inset-0 bg-slate-950/85 backdrop-blur-xs transition-opacity" 
+              className="absolute inset-0 bg-slate-950/85 backdrop-blur-xs transition-opacity cursor-pointer" 
               onClick={() => setSelectedImage(null)} 
             />
             
