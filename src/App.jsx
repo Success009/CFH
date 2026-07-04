@@ -255,7 +255,7 @@ export default function App() {
           
           <div className="fixed inset-y-0 right-0 max-w-full flex pl-4 sm:pl-10">
             <div className="w-full sm:w-screen max-w-md bg-white shadow-2xl flex flex-col">
-              <div className="p-6 border-b border-slate-100 flex justify-between items-center bg-gradient-to-r from-sky-850 to-sky-900 text-white">
+              <div className="p-6 border-b border-slate-100 flex justify-between items-center bg-gradient-to-r from-sky-800 to-sky-900 text-white">
                 <h3 className="text-lg font-bold flex items-center gap-2">
                   <ShoppingCart size={20} /> {t.cart.title}
                 </h3>
