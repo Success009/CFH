@@ -69,13 +69,13 @@ export default function App() {
     message += `Thank you! (Sent via Chitwan Fish House Web Portal)`;
 
     const encoded = encodeURIComponent(message);
-    window.open(`https://wa.me/9779855062166?text=${encoded}`, '_blank');
+    window.open(`https://wa.me/9779855050459?text=${encoded}`, '_blank');
   };
 
   const handleDirectWhatsAppChat = () => {
     let message = `नमस्ते चितवन फिस हाउस! म तपाईंको वेबसाइट हेर्दैछु र केहि बुझ्न चाहन्छु। / Hello Chitwan Fish House! I am browsing your website and have some queries.`;
     const encoded = encodeURIComponent(message);
-    window.open(`https://wa.me/9779855062166?text=${encoded}`, '_blank');
+    window.open(`https://wa.me/9779855050459?text=${encoded}`, '_blank');
   };
 
   const handleFormSubmit = (e) => {
@@ -102,7 +102,7 @@ export default function App() {
           <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-2">
             <div className="flex flex-wrap justify-center items-center gap-4 sm:gap-6">
               <span className="flex items-center gap-1.5 hover:text-sky-200 transition-colors">
-                <Phone size={12} className="text-sky-300" /> +९७७ ९८५५०६२१६६, ५६-५९०१४०
+                <Phone size={12} className="text-sky-300" /> +९७७ ९८५५०५०४५९, ५६-५९०१४०
               </span>
               <span className="flex items-center gap-1.5 hover:text-sky-200 transition-colors">
                 <MapPin size={12} className="text-sky-300" /> भरतपुर-१०, हाकिमचोक (रिजालचोक), चितवन
@@ -686,7 +686,7 @@ export default function App() {
                     <button 
                       onClick={() => {
                         let text = `म तपाईंको परिकार "${selectedProduct.name}" को बारेमा बुझ्न चाहन्छु।`;
-                        window.open(`https://wa.me/9779855062166?text=${encodeURIComponent(text)}`, '_blank');
+                        window.open(`https://wa.me/9779855050459?text=${encodeURIComponent(text)}`, '_blank');
                       }}
                       className="py-3 px-4 rounded-xl font-bold text-xs bg-green-600 hover:bg-green-500 text-white flex items-center justify-center gap-2 transition-all shadow-md"
                     >
@@ -849,7 +849,7 @@ export default function App() {
                   <button 
                     onClick={() => {
                       let text = `नमस्कार! हामी हाम्रो होटल/रेस्टुरेन्टको लागि चितवन फिस हाउससँग व्यावसायिक साझेदारी र थोक आपूर्तिको विषयमा छलफल गर्न चाहन्छौं।`;
-                      window.open(`https://wa.me/9779855062166?text=${encodeURIComponent(text)}`, '_blank');
+                      window.open(`https://wa.me/9779855050459?text=${encodeURIComponent(text)}`, '_blank');
                     }}
                     className="px-6 py-3.5 rounded-xl bg-sky-600 hover:bg-sky-500 text-white font-bold text-xs flex items-center justify-center gap-2 shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5"
                   >
@@ -1169,7 +1169,7 @@ export default function App() {
               <p className="text-slate-400 text-xxs tracking-wider uppercase">Emergency Support Available</p>
               <div className="pt-2">
                 <span className="inline-flex items-center gap-1.5 text-sky-300 hover:text-sky-200 cursor-pointer text-xs" onClick={handleDirectWhatsAppChat}>
-                  <Phone size={14} /> ९८५५०६२१६६
+                  <Phone size={14} /> ९८५५०५०४५९
                 </span>
               </div>
             </div>
